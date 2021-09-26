@@ -2,8 +2,8 @@
 
 
 {
-	"ip":"vanevo.aternos.me",
-	"port": "25565",
-	"name": "boboserver",
+	"ip":"mrmhacellismcnet.aternos.me",
+	"port": "22222",
+	"name": "bbot24h",
 	"auto-night-skip":"false"
 }
